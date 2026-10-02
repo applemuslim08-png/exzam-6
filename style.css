@@ -307,3 +307,7 @@ margin-top: 25px;
     position: relative;
     left: 170px;
 }
+.naznac{
+    display: flex;
+    justify-content: space-around;
+}

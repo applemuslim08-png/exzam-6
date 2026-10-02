@@ -310,4 +310,30 @@ margin-top: 25px;
 .naznac{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 20px;
+}
+.mouse{
+    background-color: #212731;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+.gort{
+    font-size: 52px;
+}
+.gruz{
+    margin-top: 10px;
+    color: #FFFFFFCC;
+}
+.imfg{
+    width: 300px;
+    position: relative;
+   
+}
+.jjk{
+    height: 270px;
+    position: relative;
+    right: 120px;
 }

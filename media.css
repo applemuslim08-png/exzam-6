@@ -1,0 +1,270 @@
+@media (max-width: 768px) {
+    br {
+        display: none;
+    }
+
+    .sec1 {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 10;
+        padding: 10px 15px;
+    }
+
+    main {
+        padding-top: 60px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main1 {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    .imgh {
+        position: absolute;
+        top: 140px;
+        left: 0px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        z-index: 1;
+    }
+
+    .imgh img {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+    }
+
+    .img1 {
+        display: none;
+    }
+
+    .craska {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-top: 260px;
+        justify-content: flex-start;
+        position: relative;
+        z-index: 2;
+        width: 80%;
+    }
+
+    .vakan {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .job {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .bbbb {
+        flex-grow: 1;
+        width: auto;
+    }
+
+    .bez {
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px 0px;
+        position: relative;
+        padding: 15px;
+    }
+
+    .imgsd {
+        display: flex;
+        position: relative;
+    }
+
+    .imgsd img {
+        height: 100px;
+        max-width: 100%;
+    }
+
+    .vacc {
+        margin: 30px 15px 15px 15px;
+    }
+
+    .merg {
+        position: static;
+        margin: 40px 15px 15px 15px;
+    }
+
+    .ples {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        width: 100%;
+    }
+
+    .menejer {
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .mbt {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48%;
+    }
+
+    .mbt2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48%;
+    }
+
+    .razr {
+        width: 90%;
+        height: auto;
+    }
+
+    .babl {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .glav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        width: 100%;
+    }
+
+    .fetish {
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .patorka {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .soboi {
+        margin-left: 0px;
+    }
+
+    .bmw {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .bmw button {
+        width: 100%;
+    }
+
+    .pozvonite {
+        margin-top: 40px;
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        padding: 20px 15px;
+    }
+
+    .ykazi {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .inpt {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .pozvi {
+        font-size: 18px;
+    }
+
+    .phonn {
+        position: static;
+        width: auto;
+        max-width: 100%;
+    }
+
+    .naznac {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-left: 15px;
+        width: 100%;
+    }
+
+    .mouse {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px;
+    }
+
+    .gort {
+        font-size: 18px;
+        width: auto;
+    }
+
+    .gruz {
+        margin-top: 5px;
+        width: auto;
+    }
+
+    .imfg {
+        position: static;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 10px;
+        width: auto;
+        height: auto;
+    }
+
+    .jjk {
+        position: static;
+        height: 80px;
+        width: auto;
+    }
+}

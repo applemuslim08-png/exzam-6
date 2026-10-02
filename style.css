@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 120px;
+    position: fixed;
+    top: 0px;
+    width: 88%;
+}
+.ru{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    background-color: rgb(211, 210, 210);
+    width: 77px;
+    height: 25px;
+    padding: 3px 5px;
+    border-radius: 5px;
+
+}

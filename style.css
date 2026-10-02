@@ -203,3 +203,80 @@ border-radius: 7px;
     gap: 20px;
     justify-content: center;
 }
+.pator{
+    border: 1px solid gray;
+            width: 300px;
+    height: 120px;
+    padding: 15px 15px;
+    
+}
+.ptt{
+    color: gray;
+    font-size: 11px;
+}
+.pait{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.paitt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nmbc{
+text-align: center;
+margin-top: 25px;
+
+}
+.nmbc button{
+    padding: 7px 80px;
+    background-color: white;
+    color: black;
+    border: 1px solid #D7B18D;
+}
+.patorka{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.fetish{
+    border: 1px solid gray;
+    width: 320px;
+    height: 130px;
+    padding: 7px 4px;
+}
+.col{
+    color: gray;
+    margin-bottom: 10px;
+
+}
+.soboi{
+    margin-left: 100px;
+}
+.bmw{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+.bmw button{
+        padding: 5px 80px;
+    background-color: white;
+    border: 1px  solid #D7B18D;
+}
+.glav{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+.merg{
+    font-size: 38px;
+    margin: 100px 74px;
+    position: relative;
+    top: 70px;
+    
+}

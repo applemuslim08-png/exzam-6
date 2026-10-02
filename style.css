@@ -9,6 +9,7 @@
     position: fixed;
     top: 0px;
     width: 88%;
+    background-color: white;
 }
 .ru{
     display: flex;
@@ -104,4 +105,39 @@ background-color: #D7B18D;
 color: black;
 border: none;
 border-radius: 7px;
+}
+.bez{
+    width: 98%;
+    height: 30vh;
+    background-color: #212731;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+}
+.tttb{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.imgsd{
+
+}
+.imgsd img{
+        height: 220px;
+}
+.opat{
+    padding: 9px 15px;
+    background-color: #28303D;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+.opat1{
+        padding: 9px 24px;
+    background-color: #28303D;
+    color: white;
+    border: none;
+    border-radius: 6px;
 }

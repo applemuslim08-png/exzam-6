@@ -141,3 +141,65 @@ border-radius: 7px;
     border: none;
     border-radius: 6px;
 }
+.menejer{
+    border: 1px solid gray;
+    width: 300px;
+    height: 170px;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+.ttm{
+    font-size: 13px;
+    color: gray;
+}
+.brd{
+    border-bottom: 1px solid gray;
+    font-size: 16px;
+}
+.rr{
+    font-size: 16px;
+}
+.mbt{
+    padding: 7px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D7B18D;
+}
+.mbt2{
+      padding: 7px 20px;
+    border-radius: 5px;  
+    border: 1px solid #D7B18D;
+    background-color: white;
+}
+.vacc{
+    font-size: 40px;
+    font-family: sans-serif;
+    margin: 30px 70px;
+
+}
+.razr{
+    border: 1px solid gray;
+        width: 300px;
+    height: 90px;
+    padding: 10px 15px;
+}
+.babl{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding: 4px 8px;
+}
+.bablo{
+    color: #848C9A;
+    
+}
+.vvv{
+    margin-top: 40px;
+    color: #08A652;
+}
+.ples{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}

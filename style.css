@@ -21,3 +21,87 @@
     border-radius: 5px;
 
 }
+.main1{
+    display: flex;
+    justify-content: center;
+    gap:  200px;
+}
+.imgh{
+    height: 0px;
+    position: relative;
+    bottom: 170px;
+
+
+}
+.imgh img{
+   height: 620px;
+}
+
+.tt{
+    font-size:  45px;
+}
+.img1{
+  
+}
+.img1 img{
+    width: 280px;
+    position: relative;
+    z-index: 0;
+    top: 10px;
+}
+.craska{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: #28303D;
+    padding: 10px 20px;
+    position: static;
+    z-index: 2;
+    border-radius: 6px;
+    
+}
+.ttc{
+    font-size: 33px;
+    color: white;
+}
+.ttc2{
+    font-size: 21px;
+    color: white;
+}
+.vakan{
+    display: flex;
+    gap: 10px;
+}
+.rubl{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #333e4f;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.rubl2{
+        
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: white;
+   border: none;
+}
+.job{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    gap: 10px;
+}
+.job img {
+    width: 35px;
+}
+.bbbb{
+padding: 8px 50px;
+background-color: #D7B18D;
+color: black;
+border: none;
+border-radius: 7px;
+}

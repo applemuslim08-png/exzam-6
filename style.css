@@ -280,3 +280,30 @@ margin-top: 25px;
     top: 70px;
     
 }
+.pozvonite{
+ margin-top: 200px;
+    background-color: #F4F4F5;
+    height: 10vh;
+    width: 97%;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 5px 20px;
+
+    
+}
+.ykazi{
+    font-size: 40px;
+   
+}
+.inpt{
+    padding: 8px 20px;
+}
+.pozvi{
+    font-size: 25px;
+    
+}
+.phonn{
+    position: relative;
+    left: 170px;
+}
